@@ -1,3 +1,2 @@
-# MPR
-#MPR semestral project #Java
+# TAU
 #Spring #Hibernate
