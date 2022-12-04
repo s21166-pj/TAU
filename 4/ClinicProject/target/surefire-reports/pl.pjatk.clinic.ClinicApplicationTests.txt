@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: pl.pjatk.clinic.ClinicApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 8.655 s - in pl.pjatk.clinic.ClinicApplicationTests
