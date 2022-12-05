@@ -20,5 +20,5 @@ jobs:
         distribution: 'adopt'
         cache: maven
     - name: Run Tests
-      working-directory: ./4
+      working-directory: ./4/ClinicProject/
       run: mvn --batch-mode -Dmaven.test.failure.ignore=true test
