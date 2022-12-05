@@ -82,6 +82,7 @@
 				<artifactId>spring-boot-maven-plugin</artifactId>
 			</plugin>
 		</plugins>
+		<testSourceDirectory>test</testSourceDirectory>
 	</build>
 
 </project>
