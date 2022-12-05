@@ -21,4 +21,4 @@ jobs:
         cache: maven
     - name: Run Tests
       working-directory: ./4/ClinicProject/
-      run: mvn --batch-mode -Dmaven.test.failure.ignore=true test
+      run: mvn clean test --file ./4/ClinicProject/pom.xml
